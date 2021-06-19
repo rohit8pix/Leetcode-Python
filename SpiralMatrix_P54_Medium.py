@@ -1,5 +1,5 @@
 # O(N2) Solution
-#can be reduce to O(N) using Depth First Search (DFS)
+#can be reduced to O(N) using Depth First Search (DFS)
 def spiralOrder(matrix):
     row_end=len(matrix)
     col_end = len(matrix[0])
